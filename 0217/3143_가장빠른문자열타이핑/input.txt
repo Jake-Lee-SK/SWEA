@@ -1,0 +1,10 @@
+3
+<<<<<<< HEAD
+abcabababcd abc
+asakusa sa
+asdfwgasge asge
+=======
+banana bana
+aaaaaa aaa
+asakusa sa
+>>>>>>> a9b0d456f3f40f0de30c1ae7761e6b5edb3c95f6
