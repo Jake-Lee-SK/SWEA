@@ -1,6 +1,11 @@
 # SWEA
 
 ## Problems from: samsung SoftWare Expert Academy
+- 2022/03/25
+  - No. 2105 : 디저트 카페 / Difficulty : Samsung Test A
+  - No. 2819 : 격자판의 숫자 이어 붙이기 / Difficulty : Level 4
+  - No. 4366 : 정식이의 은행업무 / Difficulty : Level 4
+  - No. 4615 : 재미있는 오셀로 게임 / Difficulty : Level 3
 
 - 2022/03/24
   - No. 2117 : 암호코드 스캔 / Difficulty : Level 5
