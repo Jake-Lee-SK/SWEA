@@ -1,6 +1,12 @@
 # SWEA
 
 ## Problems from: samsung SoftWare Expert Academy
+- 2022/03/26
+  - No. 1238 : contact / Difficulty : Level 4
+  - No. 1486 : 장훈이의 높은 선반 / Difficulty : Level 4
+  - No. 1861 : 정사각형방 / Difficulty : Level 4
+  - No. 1953 : 탈주범 검거 / Difficulty : Samsung Test A
+
 - 2022/03/25
   - No. 2105 : 디저트 카페 / Difficulty : Samsung Test A
   - No. 2819 : 격자판의 숫자 이어 붙이기 / Difficulty : Level 4
