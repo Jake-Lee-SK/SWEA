@@ -1,6 +1,10 @@
 # SWEA
 
 ## Problems from: samsung SoftWare Expert Academy
+
+- 2022/03/28
+  - No. 5688 : 세제곱근을 찾아라 / Difficulty : Level 3
+  - No. 1244 : 최대상금 / Difficulty : Level 3
 - 2022/03/26
   - No. 1238 : contact / Difficulty : Level 4
   - No. 1486 : 장훈이의 높은 선반 / Difficulty : Level 4
