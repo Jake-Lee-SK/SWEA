@@ -1,6 +1,20 @@
 # SWEA
 
 ## Problems from: samsung SoftWare Expert Academy
+- 2022/03/31
+  - No. 2806 : n-queens / Difficulty : Level 3
+  - No. 5204 : 병합정렬 / Difficulty : Level 3
+  - No. 5205 : 퀵정렬 / Difficulty : Level 3
+  - No. 2115 : 벌꿀 채취 /  Difficulty : Samsung Test A
+  - No. 1865 : 동철이의 일 분배 /  Difficulty : Level 4
+  - No. 5208 : 전기버스 2  Difficulty : Level 3
+
+- 2022/03/29
+  - No. 5188
+  - No. 5189
+  - No. 5201
+  - No. 5202
+  - No. 5203
 
 - 2022/03/28
   - No. 5688 : 세제곱근을 찾아라 / Difficulty : Level 3
